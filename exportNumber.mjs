@@ -1,1 +1,2 @@
-export default let value = 25;
+let value = 25;
+export default value;
